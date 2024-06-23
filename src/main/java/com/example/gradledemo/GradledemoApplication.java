@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GradledemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to Springboot project demo project with git suganandan Sundaresan");
+		System.out.println("Welcome to Springboot project demo project with git basic operations - suganandan Sundaresan");
 		SpringApplication.run(GradledemoApplication.class, args);
 	}
 
